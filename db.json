@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "value": "akshay",
+      "id": "6919816e-c0c5-4cc1-a1c6-9273d30144c5",
+      "isCompleted": false
+    },
+    {
+      "value": "prajwal",
+      "id": "5b9a9e59-eb71-422e-ab59-79d2f8465974",
+      "isCompleted": false
+    },
+    {
+      "value": "shubham",
+      "id": "690af72a-f287-4c9e-a072-3d06284be224",
+      "isCompleted": false
+    }
+  ]
+}
